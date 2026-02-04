@@ -1,4 +1,30 @@
-# React + Vite
+# 🔐 SecureAuth - MERN Authentication System
+
+Live Demo: https://secureauth-frontend-2xf6.vercel.app
+
+##  Features
+- JWT Authentication
+- Login & Register System
+- Protected Routes
+- HTTP-only Cookies
+- MongoDB Database
+- MERN Stack Implementation
+
+##  Tech Stack
+- React (Vite)
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+- Render (Backend Hosting)
+- Vercel (Frontend Hosting)
+
+##  Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/PrahladKumar-dev/secureauth-frontend.git
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
